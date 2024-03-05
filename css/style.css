@@ -1,0 +1,20 @@
+/*  */
+header {
+  background-color: aqua;
+}
+header h1 {
+  color: yellow;
+  text-align: center;
+}
+header div h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+header div ul li {
+  display: none;
+}
+
+main section h2 {
+  font-size: 100px;
+}
+
+/*# sourceMappingURL=style.css.map */
